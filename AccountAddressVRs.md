@@ -1,5 +1,5 @@
 
-Correct Canadian Postal Code
+##Correct Canadian Postal Code
 Original Salesforce Documentation [Sample Account Address Validation Rules](https://developer.salesforce.com/docs/atlas.en-us.usefulValidationRules.meta/usefulValidationRules/fields_useful_validation_formulas_account_address.htm).
 
 Validates that the account Billing Zip/Postal Code is in the correct format if Billing Country is Canada.
