@@ -1,5 +1,7 @@
-# validation-rules
+## validation-rules
 Validation rules for every occasion
+
+Original Salesforce Documentation [Example Validation Rules](https://developer.salesforce.com/docs/atlas.en-us.usefulValidationRules.meta/usefulValidationRules/fields_useful_field_validation_formulas.htm).
 
 MDK-1/4/19: Initial Entry
 
